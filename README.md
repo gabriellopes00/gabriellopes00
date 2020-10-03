@@ -32,6 +32,10 @@
 </div>
 
 <div class="row">
+  <h6>OS</h6>
+  <h6>Databases</h6>
+</div>
+<div class="row">
   <div class="col-md-4">
     <h6>📊 Databases</h6>
     <div class="row">
