@@ -23,10 +23,11 @@
 </div>
 
 <div class="row">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg" alt="sequelize" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" alt="handlebars" width="20" height="20"/>
 
 </div>
 
