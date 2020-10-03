@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor&white=link:https://www.instagram.com/_.gabriellopes/?hl=pt-br)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)-->
 
 ### :wave: About me
-<h5>A backend student and developer focused on learning back-end technologies and developing different types of applications.</h5>
+<h5>A web backend student and developer focused on learning back-end technologies and developing different types of applications, seeking to have clean, readable and high performance code.</h5>
 
 <h4> Working with</h4>
 <h6>🚀 Technologies</h6>
