@@ -12,8 +12,8 @@
 ### :wave: About me
 <h5>A backend student and developer focused on learning back-end technologies and developing different types of applications.</h5>
 
-<h4>🚀 Technologies</h4>
-<h6>Technologies</h6>
+<h4> Working with</h4>
+<h6>🚀 Technologies</h6>
 <div class="row">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<h6>Databases</h6>
+<h6>📊 Databases</h6>
 <div class="row">
   <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-<h6>OS</h6>
+<h6>🖥 OS</h6>
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
