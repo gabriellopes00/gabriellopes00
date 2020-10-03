@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor&white=link:https://www.instagram.com/_.gabriellopes/?hl=pt-br)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)-->
 
 ### About me
-I'm a backend student and developer.
+A backend student and developer focused on learning back-end technologies.
 
 <h4>🚀 Technologies</h4>
 <h6>Technologies</h6>
@@ -24,7 +24,7 @@ I'm a backend student and developer.
 
 <h6>Databases</h6>
 <div class="row">
-  <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+  <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
