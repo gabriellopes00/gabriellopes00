@@ -9,7 +9,7 @@
 [![Facebook Badge](	https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor&white=link:https://www.facebook.com/profile.php?id=100034920821684)](https://www.facebook.com/profile.php?id=100034920821684)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor&white=link:https://www.instagram.com/_.gabriellopes/?hl=pt-br)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)-->
 
-### About me
+### :wave: About me
 <h5>A backend student and developer focused on learning back-end technologies.</h5>
 
 <h4>🚀 Technologies</h4>
