@@ -31,8 +31,19 @@
 
 </div>
 
-<h6>📊 Databases</h6>
 <div class="row">
-  <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+  <div class="col-md-4">
+    <h6>📊 Databases</h6>
+    <div class="row">
+      <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+    </div>
+  </div>
+  <div class="col-md-4">
+    <h6>📊 Databases</h6>
+    <div class="row">
+      <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+    </div>
+  </div>
 </div>
