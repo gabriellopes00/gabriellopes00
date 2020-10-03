@@ -21,6 +21,14 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
+<small>Others: </sall>
+<div class="row">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg" alt="nodejs" width="20" height="20"/>
+
+</div>
 
 <h6>📊 Databases</h6>
 <div class="row">
