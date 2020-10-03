@@ -27,6 +27,3 @@
   <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
-
-<h6>🖥 OS</h6>
-<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
