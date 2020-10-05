@@ -13,7 +13,7 @@
 <h5>A web backend student and developer focused on learning back-end technologies and developing different types of applications, seeking to have clean, readable and high performance code.</h5>
 
 <h4> Working with</h4>
-<h6>🚀 Technologies</h6>
+<h6>🚀 Technologies and Tools ⚙</h6>
 <div class="row">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -28,6 +28,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg" alt="sequelize" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" alt="handlebars" width="20" height="20"/>
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20"/>  
+  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>
   <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 </div>
