@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <div class="row">
@@ -37,12 +39,5 @@
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20"/>  
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>
   <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-
 </div>
 
-<h6>📊 Databases</h6>
-<div class="row">
-  <img class="mr-2" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="height:20px">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-</div>
