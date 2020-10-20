@@ -16,9 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor&white=link:https://www.instagram.com/_.gabriellopes/?hl=pt-br)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)-->
 
 ### :wave: About me
-<h5>A web backend student and developer focused on learning back-end technologies and developing different types of applications, seeking to have clean, readable and high performance code.</h5>
-
-<h4> Working with</h4>
+<h5>A web backend student and developer focused on learning back-end technologies and developing different types of applications, seeking to have clean, readable and high performance code.</h5> <br>
 <h6>🚀 Technologies and Tools ⚙</h6>
 <div class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
