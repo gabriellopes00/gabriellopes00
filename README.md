@@ -12,7 +12,7 @@
 ### :wave: About me
 ##### A web backend student and developer focused on learning back-end and front-and technologies and developing different types of applications, seeking to have clean, readable and high performance code. And always looking to contribute to the community in some way 📚
 
-###### 🚀 Technologies and Tools ⚙
+### 🚀 Technologies and Tools ⚙
 <div class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
