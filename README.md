@@ -24,7 +24,8 @@
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
   <img  src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
+  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/>
   <img  src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30">
 </div>
 
