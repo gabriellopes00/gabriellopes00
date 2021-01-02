@@ -11,7 +11,7 @@
 ###### Being a developer is a journey, where the next stop is the solution to another problem, and you need to be prepared. So... never stop learning. 💻 
 
 ### :wave: About me
-##### A web backend student and developer focused on learning back-end and front-and technologies and developing different types of applications, seeking to have clean, readable and high performance code. And always looking to contribute to the community in some way 📚
+##### Web developer and student focused on learning back-end and front-end technologies and developing different types of applications, seeking to have clean, readable, structured and high-performance code. And always looking to contribute to the community in some way 📚
 
 ### 🚀 Technologies and Tools ⚙
 <div class="row">
@@ -23,7 +23,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue.js" width="30" height="30"/>  
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
-  <img src="https://cdn.svgporn.com/logos/jest.svg" height="30" alt="jest">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/landscape/jestlogo.png" height="30" alt="jest">
   <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu">
 </div>
