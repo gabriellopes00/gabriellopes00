@@ -22,11 +22,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue.js" width="30" height="30"/>  
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
-  <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
-  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/jest.svg" height="30" alt="jest">
+  <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu">
 </div>
