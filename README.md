@@ -29,5 +29,5 @@
   <img src="https://cdn.svgporn.com/logos/jest.svg" height="30" alt="jest">
   <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu">  
-  <img src="https://cdn.svgporn.com/logos/docker.svg" height="30" alt="docker">
+  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
 </div>
