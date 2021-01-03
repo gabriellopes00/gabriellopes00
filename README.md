@@ -18,9 +18,9 @@
 
 <div class="row">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="30" height="30"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript">
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="nodejs">
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="35" height="35"/>
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
@@ -31,4 +31,3 @@
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu">  
   <img src="https://cdn.svgporn.com/logos/docker.svg" height="30" alt="docker">
 </div>
-
