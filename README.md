@@ -9,11 +9,11 @@
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/14099025/gabriel-lopes?tab=profile)
 
 ###### Solving a problem is good, but avoiding it is even better 🔥
-###### Being a developer is a journey, where the next stop is the solution to another problem, and you need to be prepared. So... never stop learning. 💻
+###### Being a developer is a journey, where the next stop is the solution to another problem, and you need to be prepared. So... keep learning. 💻
 
 ### :wave: About me
 
-##### Web developer and student focused on learning back-end and front-end technologies and developing different types of applications, seeking to have clean, readable, structured and high-performance code. And always looking to contribute to the community in some way 📚
+##### Web developer and student focused on learning back-end and front-end technologies and developing different types of applications, seeking to have clean, readable, tested, structured and high-performance code. And always looking to contribute to the community in some way 📚
 
 ### 🚀 Technologies and Tools ⚙
 
