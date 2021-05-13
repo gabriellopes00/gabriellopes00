@@ -25,6 +25,7 @@
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="35" height="35"/>
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
+  <img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/> 
   <img src="https://cdn.svgporn.com/logos/jest.svg" height="30" alt="jest">
   <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
