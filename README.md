@@ -28,7 +28,6 @@
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/> 
-  <img src="https://cdn.svgporn.com/logos/graphql.svg" height="30" alt="graphql">
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="linux"> 
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
 </div>
