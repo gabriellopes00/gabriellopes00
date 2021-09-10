@@ -9,7 +9,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/14099025/gabriel-lopes?tab=profile)
 
 ###### Solving a problem is good, but avoiding it is even better 🔥
-###### Being a developer is a journey, where the next stop is the solution to another problem, and you need to be prepared. So... keep learning. 💻
+###### Being a developer is a journey, where the next stop is the solution to another problem. 💻
 
 ### :wave: About me
 
@@ -18,16 +18,18 @@
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="typescript">
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="nodejs">
-  <img src="https://cdn.svgporn.com/logos/go.svg" height="30" alt="golang">
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="35" height="35"/>
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/> 
-  <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="linux"> 
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="Javascript"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="Typescript">
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs">
+  <img src="https://cdn.svgporn.com/logos/go.svg" height="30" alt="Go-lang">
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="Git">
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/452/mongodb.png" height="35" alt="MongoDB" />
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
+  <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg"  height="30" alt="React"/> 
+  <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux"> 
+  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="Docker">
+  <img src="https://cdn.svgporn.com/logos/kubernetes.svg" height="30" alt="Kubernetes">
+  <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" height="30" alt="RabbitMQ">
 </div>
