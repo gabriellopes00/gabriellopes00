@@ -23,11 +23,11 @@
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs">
   <img src="https://cdn.svgporn.com/logos/go.svg" height="30" alt="Go-lang">
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="Git">
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"/>
   <img src="https://img.icons8.com/color/452/mongodb.png" height="35" alt="MongoDB" />
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
   <img src="https://cdn.svgporn.com/logos/react.svg"  height="30" alt="React"/> 
+  <img src="https://cdn.svgporn.com/logos/flutter.svg"  height="30" alt="Flutter"/> 
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux"> 
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="Docker">
   <img src="https://cdn.svgporn.com/logos/kubernetes.svg" height="30" alt="Kubernetes">
